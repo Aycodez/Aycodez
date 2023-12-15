@@ -6,16 +6,16 @@
 # Projects
 This are some of the projects I have worked on:
 - Project 1: Machine Learning algorithms
-  Description: Built the Linear Regression and KNN algorithms from scratch. 
-  Technologies Used: I used Numpy, pandas, matplotlib libraries and sklearn just to compare their accuracy to mine😁.
-  Key Achievements: Was able to see how they both work at the ground level and it deepend my knowledge of ML algorithms.
+    - Description: Built the Linear Regression and KNN algorithms from scratch. 
+    - Technologies Used: I used Numpy, pandas, matplotlib libraries and sklearn just to compare their accuracy to mine😁.
+    - Key Achievements: Was able to see how they both work at the ground level and it deepend my knowledge of ML algorithms.
 
  
 
 - Project 2: Data structures and algorithms school project
-  Description: Freelanced at my college by helping groups write their projects which involved implement stacks,queues, binary search and so on . 
-  Technologies Used: I wrote the code in C cos thats what the programming language we were instructed to use.
-  Key Achievements: This helped me to use the knowledge I had learnt from MITOpencourseware and CS50 on data structures and algorithms
+    - Description: Freelanced at my college by helping groups write their projects which involved implement stacks,queues, binary search and so on . 
+    - Technologies Used: I wrote the code in C cos thats what the programming language we were instructed to use.
+    - Key Achievements: This helped me to use the knowledge I had learnt from MITOpencourseware and CS50 on data structures and algorithms
 
 
 Feel free to explore these projects and provide any feedback or suggestions. I appreciate collaborative opportunities and contributions from the community.
