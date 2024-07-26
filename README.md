@@ -1,7 +1,7 @@
 # Hi there 👋
 - 👋 Welcome to my GitHub profile! I'm Lawal Ayomide, a full stack web developer
 # About me
-- 👨‍💻 I am a sofware engineer with a strong background in web development. I've always had a keen interest in building AIs right from childhood, and since i came of age and got access to materials, I have been dedicated to learning, upgrading my skills and staying updated with the latest advancements in the field.
+- 👨‍💻 I am a sofware engineer with a strong background in web development. I've always had a keen interest in building scalable websites right from childhood, and since i came of age and got access to materials, I have been dedicated to learning, upgrading my skills and staying updated with the latest advancements in the field.
 - 📚 I love reading books on programming, exploring new technologies, and enhancing my skills during my freetime. Continuous learning is essential to me, and I'm always excited about discovering new ways to improve my skills and knowledge. I also play the piano🎹
 # Projects
 This are some of the projects I have worked on:
